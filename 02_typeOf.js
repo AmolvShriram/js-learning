@@ -1,13 +1,5 @@
 
 
-// var bankName;
-// console.log("========= Step 1 =========");
-// console.log("bankName before initialization:", bankName);
-// // console.log("bankName", bankName);
-// bankName= SBIBank;
-// console.log("bankName after initialization:", bankName);
-// var typeofbankName= typeof bankName;
-// console.log("type of bankName", typeof bankName);
 console.log("=========================== Step 1 ============================");var bankName;
 console.log("bankName is before initialization:>", bankName);
 var typeofbankName = typeof bankName;
