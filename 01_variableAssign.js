@@ -26,25 +26,25 @@ console.log("My love is:>",myLove);
 console.log("==================== Step 3 ======================");
 var firstName = "Amol";
 console.log("First Name:>", firstName);
-console.log("-------------------------------------");
+console.log("--------------------------------------------------");
 var lastName = "Shriram";
 console.log("Last Name:>", lastName);
-console.log("-------------------------------------");
+console.log("--------------------------------------------------");
 var age = 25;
 console.log("Age:>", age);
-console.log("-------------------------------------");
+console.log("--------------------------------------------------");
 var address = "Pandharpur , Solapur , Maharashtra";
 console.log(" Address:>", address);
-console.log("-------------------------------------");
+console.log("--------------------------------------------------");
 var pincode = 413304;
 console.log(" Pincode :>", pincode);
-console.log("-------------------------------------");
+console.log("--------------------------------------------------");
 var gender = "Male";
 console.log(" Gender :>", gender);
-console.log("-------------------------------------");
+console.log("--------------------------------------------------");
 var married = "false";
 console.log(" Married :>", married);
-console.log("--------------*******----------------");
+console.log("---------------------*******----------------------");
 
 
 
