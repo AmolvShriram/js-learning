@@ -25,7 +25,7 @@ const arrayEmployees=[emp_anil,emp_radha,emp_rishi,emp_sonali,emp_monika,emp_vin
 
 console.log(`================================== Step 1 ====================================`);
 
-console.log(` Sort the 'arrayEmployees' in  descending order of Employee Id's :`);
+console.log(` Sort the 'arrayEmployees' in  Descending order of Employee Id's :`);
 console.log(` Employee Details :>  Id , Name and Department = `);
 arrayEmployees.sort((p1, p2)=>{
     return p1.id>=p2.id ? 1 : -1
@@ -37,7 +37,7 @@ arrayEmployees.forEach(element => {
 
 console.log(`================================== Step 2 ====================================`);
 
-console.log(` Sort the 'arrayEmployees' in  descending order of Employee Id's :`);
+console.log(` Sort the 'arrayEmployees' in  Ascending order of Employee Department :`);
 console.log(` Employee Details :>  Department , Id , and Company = `);
 arrayEmployees.sort((p1, p2)=>{
     return p1.emp_dept>=p2.emp_dept ? 1 : -1
@@ -50,7 +50,7 @@ arrayEmployees.forEach(element => {
 
 console.log(`================================== Step 3 ====================================`);
 
-console.log(` Sort the 'arrayEmployees' in  descending order of Employee Id's :`);
+console.log(` Sort the 'arrayEmployees' in  Descending order of Employee Salary :`);
 console.log(` Employee Details :>  Salary , Name and Company = `);
 arrayEmployees.sort((p1, p2)=>{
     return p1.emp_salary>=p2.emp_salary ? -1 : 1
